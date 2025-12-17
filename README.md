@@ -75,4 +75,4 @@ python main2.py
 ## Author
 
 奥河 董馬 (Toma Okugawa)  
-弓削商船高等専門学校 (Yuge National College of Maritime Technology)
+弓削商船高等専門学校 (National Institute of Technology, Yuge College)
